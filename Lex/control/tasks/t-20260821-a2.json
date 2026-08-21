@@ -1,0 +1,24 @@
+{
+  "id": "t-20260821-a2",
+  "title": "Prepare Wave-2 follow-ups due 2026-08-24",
+  "detail": "Using outreach/second-wave-queue.md + followups-2026-08-24.md and each prospect's angle, prepare personalized follow-ups. Park each as an approval with the exact draft. Nothing sends without your click.",
+  "project": "tedt",
+  "assignee": "herald",
+  "priority": "high",
+  "status": "blocked",
+  "createdAt": "2026-08-21T14:19:00",
+  "updatedAt": "2026-08-21T14:37:20",
+  "updates": [
+    {
+      "at": "2026-08-21T14:20:30",
+      "by": "herald",
+      "text": "Prepared 1 SAMPLE follow-up draft to show the approval gate — awaiting your decision. Run the task to generate the full real set."
+    },
+    {
+      "at": "2026-08-21T14:37:20",
+      "by": "you",
+      "text": "REJECTED approval \"[SAMPLE] Wave-2 follow-up → Peak Kitchen Exhaust (Jay Tully)\""
+    }
+  ],
+  "result": ""
+}

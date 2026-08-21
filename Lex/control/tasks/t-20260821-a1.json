@@ -1,0 +1,13 @@
+{
+  "id": "t-20260821-a1",
+  "title": "Check for prospect replies & reconcile the send tracker",
+  "detail": "Read outreach/responses-log.md and the wave 'sent' files; classify any replies (interested / not now / no / bounce); reconcile which of the 30 prospects have actually been contacted. Drafts-first: no sending.",
+  "project": "tedt",
+  "assignee": "herald",
+  "priority": "high",
+  "status": "inbox",
+  "createdAt": "2026-08-21T14:18:00",
+  "updatedAt": "2026-08-21T14:18:00",
+  "updates": [],
+  "result": ""
+}

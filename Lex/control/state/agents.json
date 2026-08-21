@@ -1,0 +1,7 @@
+{
+  "agents": [
+    { "name": "Lex", "tag": "head", "role": "Coordinates · routes tasks · enforces approval gates · reports to you" },
+    { "name": "Scout", "tag": "worker", "role": "Research + scrape → spreadsheet" },
+    { "name": "Herald", "tag": "worker", "role": "Email + follow-ups / outreach (approval-gated)" }
+  ]
+}

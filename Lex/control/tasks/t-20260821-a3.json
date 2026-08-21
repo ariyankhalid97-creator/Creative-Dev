@@ -1,0 +1,13 @@
+{
+  "id": "t-20260821-a3",
+  "title": "Extend lead database with 15 more qualified prospects",
+  "detail": "Find 15 additional real U.S. commercial hood-cleaning businesses matching the scoring criteria; append to research/02-lead-database.csv with source URLs; mark unverifiable fields Unknown; skip franchises and 40+ employee firms.",
+  "project": "tedt",
+  "assignee": "scout",
+  "priority": "normal",
+  "status": "inbox",
+  "createdAt": "2026-08-21T14:19:30",
+  "updatedAt": "2026-08-21T14:19:30",
+  "updates": [],
+  "result": ""
+}

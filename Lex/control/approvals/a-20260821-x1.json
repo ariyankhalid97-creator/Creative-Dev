@@ -1,0 +1,13 @@
+{
+  "id": "a-20260821-x1",
+  "taskId": "t-20260821-a2",
+  "agent": "herald",
+  "action": "send-email",
+  "title": "[SAMPLE] Wave-2 follow-up → Peak Kitchen Exhaust (Jay Tully)",
+  "summary": "Example draft to demonstrate the approval gate. When you run task t-20260821-a2, Herald regenerates real drafts from the Tedt outreach queue. Approve/Reject here to see the loop — nothing sends in drafts-first mode; Approve just marks it ready for you to send.",
+  "preview": "To: Jay Tully — Peak Kitchen Exhaust (Colorado Springs, CO)\nSubject: The NFPA sticker + invoice, done in 30 seconds\n\nHi Jay,\n\nFollowing up on my note last week. Since you're the tech doing the NFPA 96 sticker, the after-photos, and the invoice by hand, I built a 2-minute demo that turns one job's inputs into a branded service report + quote automatically.\n\nWorth a 10-minute look this week? I can tailor it to Peak's exact sticker + sales-order format.\n\n— [your name]\n\n----\n[SAMPLE DRAFT — for demonstrating the Approve/Reject gate only.]",
+  "status": "rejected",
+  "createdAt": "2026-08-21T14:20:30",
+  "decidedAt": "2026-08-21T14:37:20",
+  "decidedNote": ""
+}
